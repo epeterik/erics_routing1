@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(245, 239, 239);
+    margin: 3px;
+    padding: 5px;
+}
+.normalNav {
+    color: rgb(245, 238, 238);
+  }
+
+.activeNav {
+    background: #0935fb;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+
+.navBarStyle {
+    background: rgb(129, 116, 116);
+    text-align: left;
+    margin: 5px;
+    padding: 15px;
+    height: 20px;
+}
+
+.containDiv {
+    text-align: left; 
+}
